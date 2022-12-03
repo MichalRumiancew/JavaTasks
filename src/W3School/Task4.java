@@ -1,6 +1,6 @@
 package W3School;
 
-public class task4 {
+public class Task4 {
     public static void main(String[] args) {
         int a = -5 + 8 * 6;
         int b = (55 + 9) % 9;
